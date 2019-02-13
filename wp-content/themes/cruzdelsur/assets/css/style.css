@@ -1,5 +1,59 @@
 
-head{
+h1, h2, h3, h4, h5, h6, a, p{
     font-family:'Comfortaa'; cursive;
 }
+
+/* color */
+.color-white{
+    color: #ffffff;
+}
+
+.color-yellow{
+    color: #fbb901
+}
+
+.color-cian{
+    color: #00a8b5
+}
+
+.color-purple{
+    color: #774898;
+}
+
+.color-violet{
+    color: #e62a76;
+}
+
+
+.color-gray{
+    color: #444444; 
+}
+
+/* background-colors */
+
+.bgc-white{
+    background-color: #ffffff;
+}
+
+.bgc-yellow{
+    background-color:#fbb901 ;
+}
+
+.bgc-cian{
+    background-color: #00a8b5;
+}
+
+.bgc-purple{
+    background-color: #774898;
+}
+
+.bgc-violet{
+    background-color:#e62a76;
+}
+
+.bgc-gray{
+    background-color: #444444 ;
+}
+
+
 
