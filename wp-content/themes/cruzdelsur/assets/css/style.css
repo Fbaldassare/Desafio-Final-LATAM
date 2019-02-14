@@ -1,12 +1,53 @@
 
+/*h & p*/
 h1, h2, h3, h4, h5, h6, a, p{
     font-family:'Comfortaa'; cursive;
 }
 
-/* color */
-.color-white{
-    color: #ffffff;
+h1{
+    font-size: 96px;
 }
+
+h2{
+    font-size: 60px;
+}
+
+h3{
+    font-size: 48px;
+}
+
+h4{
+    font-size: 34px;
+}
+
+h5{
+    font-size: 24px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+.subtittle-custom-1{
+    font-size: 16px;
+    font-weight: 300px;
+}
+
+.subtittle-custom-2{
+    font-size: 14px;
+    font-weight: 400px;
+}
+
+.body-p{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/* color */
+.color-white {
+    color: white;
+}
+
 
 .color-yellow{
     color: #fbb901
@@ -55,5 +96,20 @@ h1, h2, h3, h4, h5, h6, a, p{
     background-color: #444444 ;
 }
 
+/* menu */
+
+#mi_menu{
+
+}
 
 
+.color-white a{
+    color:white;
+}
+
+body{
+    
+    
+    background-image: linear-gradient(to bottom right, red, yellow); /* Standard syntax
+    background-image: linear-gradient(to bottom#774898, white);
+}
